@@ -1,0 +1,52 @@
+MD5(miui_HMNote6ProGlobal_9.3.1_7c36ef9b06_8.1.zip)= 7c36ef9b06fa2fd935f27677341a452a
+Archive:  miui_HMNote6ProGlobal_9.3.1_7c36ef9b06_8.1.zip
+signed by SignApk
+ extracting: /tmp/miui_14115406/META-INF/com/android/metadata  
+  inflating: /tmp/miui_14115406/boot.img  
+  inflating: /tmp/miui_14115406/firmware-update/NON-HLOS.bin  
+BOARD_KERNEL_CMDLINE console=ttyMSM0,115200,n8 androidboot.console=ttyMSM0 earlycon=msm_serial_dm,0xc170000 androidboot.hardware=qcom user_debug=31 msm_rtb.filter=0x37 ehci-hcd.park=3 lpm_levels.sleep_disabled=1 sched_enable_hmp=1 sched_enable_power_aware=1 service_locator.enable=1 swiotlb=1 androidboot.configfs=true androidboot.usbcontroller=a800000.dwc3 buildvariant=user
+BOARD_KERNEL_BASE 00000000
+BOARD_NAME 
+BOARD_PAGE_SIZE 4096
+BOARD_HASH_TYPE sha1
+BOARD_KERNEL_OFFSET 00008000
+BOARD_RAMDISK_OFFSET 01000000
+BOARD_SECOND_OFFSET 00f00000
+BOARD_TAGS_OFFSET 00000100
+BOARD_OS_VERSION 8.1.0
+BOARD_OS_PATCH_LEVEL 2019-02
+BOARD_HEADER_VERSION 0
+
+ota-required-cache=0
+ota-type=BLOCK
+post-build=xiaomi/tulip/tulip:8.1.0/OPM1.171019.011/9.3.1:user/release-keys
+post-timestamp=1551405781
+pre-device=tulip
+Build Date:Thu Feb 28 23:03:01 -03 2019
+# Linux/arm64 4.4.78 Kernel Configuration
+
+Extraindo informacao firmware:
+
+{
+    "Image_Build_IDs": {
+        "adsp": "ADSP.VT.4.0-00327-SDM660-1", 
+        "apps": "LA.UM.6.2.r1-06100-sdm660.0-1.167032.1.172437.1", 
+        "boot": "BOOT.XF.1.4-00252-S660LZB-1.154702.0.157275.1", 
+        "btfm": "BTFM.CHE.2.1.1.c2-00135-QCACHROMZ-3", 
+        "common": "SDM636.LA.2.1-21268-STD.PROD-1.176783.0.186057.1", 
+        "cpev2": "CPE.TSF.2.0-00006-W9335AAAAAAAZQ-1", 
+        "glue": "GLUE.SDM660_LA.2.0-00039-NOOP_TEST-1", 
+        "modem": "MPSS.AT.3.1-00672.2-SDM660_GEN_PACK-1.176783.1.186057.1", 
+        "rpm": "RPM.BF.1.8-00052-SDM660AAAAANAZR-1", 
+        "tz": "TZ.BF.4.0.7-00082-S660AAAAANAZT-1.135427.1.138251.1", 
+        "video": "VIDEO.VE.4.4-00034-PROD-1", 
+        "wdsp": "WDSP.9340.1.0.c1-00008-W9340AAAAAAAZQ-1", 
+        "wlan": "WLAN.HL.1.0.1.c2-00369-QCAHLSWMTPLZ-1"
+    }, 
+    "Metabuild_Info": {
+        "Meta_Build_ID": "SDM636.LA.2.1-21268-STD.PROD-1.176783.0.186057.1", 
+        "Product_Flavor": "asic", 
+        "Time_Stamp": "2019-02-19 22:08:53"
+    }, 
+    "Version": "1.0"
+}
