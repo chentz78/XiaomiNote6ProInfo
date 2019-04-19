@@ -1,0 +1,34 @@
+MD5(/home/chentz/temp/Note6Pro/miui_HMNote6ProGlobal_9.4.18_ade32fc153_9.0.zip)= ade32fc153a33534b05ab7976b6cd1a2
+Archive:  /home/chentz/temp/Note6Pro/miui_HMNote6ProGlobal_9.4.18_ade32fc153_9.0.zip
+signed by SignApk
+ extracting: /tmp/miui_19071248/META-INF/com/android/metadata  
+  inflating: /tmp/miui_19071248/boot.img  
+  inflating: /tmp/miui_19071248/firmware-update/NON-HLOS.bin  
+BOARD_KERNEL_CMDLINE console=ttyMSM0,115200,n8 androidboot.console=ttyMSM0 earlycon=msm_serial_dm,0xc170000 androidboot.hardware=qcom user_debug=31 msm_rtb.filter=0x37 ehci-hcd.park=3 lpm_levels.sleep_disabled=1 sched_enable_hmp=1 sched_enable_power_aware=1 service_locator.enable=1 swiotlb=1 firmware_class.path=/vendor/firmware_mnt/image loop.max_part=7 buildvariant=user
+BOARD_KERNEL_BASE 00000000
+BOARD_NAME 
+BOARD_PAGE_SIZE 4096
+BOARD_HASH_TYPE sha1
+BOARD_KERNEL_OFFSET 00008000
+BOARD_RAMDISK_OFFSET 01000000
+BOARD_SECOND_OFFSET 00f00000
+BOARD_TAGS_OFFSET 00000100
+BOARD_OS_VERSION 9.0.0
+BOARD_OS_PATCH_LEVEL 2019-05
+BOARD_HEADER_VERSION 0
+
+ota-property-files=metadata:69:281         
+ota-required-cache=0
+ota-type=BLOCK
+post-build=xiaomi/tulip/tulip:9/PKQ1.180904.001/9.4.18:user/release-keys
+post-build-incremental=9.4.18
+post-sdk-level=28
+post-security-patch-level=2019-05-05
+post-timestamp=1555525686
+pre-device=tulip
+Build Date:Wed Apr 17 15:28:06 -03 2019
+# Linux/arm64 4.4.153 Kernel Configuration
+
+Extraindo informacao firmware:
+
+MPSS.AT.3.1-00777-SDM660_GEN_PACK-1_20180918_020459
