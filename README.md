@@ -24,3 +24,8 @@ Recovery: http://bigota.d.miui.com/9.4.12/miui_HMNote6ProGlobal_9.4.12_8082110fa
 Site: https://www.miui.net.in/miui-10-9-4-18-global-beta-update-for-redmi-note-6-pro-download-link/
 
 Recovery: http://bigota.d.miui.com/9.4.18/miui_HMNote6ProGlobal_9.4.18_ade32fc153_9.0.zip
+
+### 9.4.22
+Site: https://www.miui.net.in/miui-10-9-4-22-global-beta-update-for-redmi-note-6-pro-download-link/
+
+Recovery: http://bigota.d.miui.com/9.4.22/miui_HMNote6ProGlobal_9.4.22_0a0485d8be_9.0.zip
