@@ -6,6 +6,13 @@ Recovery: http://bigota.d.miui.com/V10.2.2.0.OEKMIXM/miui_HMNote6ProGlobal_V10.2
 
 Build Date: Mon Jan 14 10:43:07 -03 2019
 
+### 10.3.2.0
+Site: https://www.miui.net.in/android-pie-miui-10-3-2-0-global-stable-update-for-redmi-note-6-pro-download-link/
+
+Recovery: https://bigota.d.miui.com/V10.3.2.0.PEKMIXM/miui_HMNote6ProGlobal_V10.3.2.0.PEKMIXM_f6f2899114_9.0.zip
+
+Build Date:Fri Apr 26 09:32:58 -03 2019
+
 ## Global Beta
 ### 9.3.1
 Site: https://en.miui.com/thread-5879761-1-1.html
